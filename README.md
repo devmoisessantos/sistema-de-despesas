@@ -77,8 +77,8 @@ Sinta-se à vontade para abrir issues e enviar pull requests para melhorias!
 
 ## 🔗 Links
 
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-🐙 [GitHub](https://github.com/seu-usuario)  
-📧 [Email](mailto:seu-email@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/devmoises-santos)  
+🐙 [GitHub](https://github.com/devmoisessantos)  
+📧 [Email](mailto:devmoisessantos@gmail.com)
 
 📌 **Desenvolvido por Moisés M. Santos** 🚀
